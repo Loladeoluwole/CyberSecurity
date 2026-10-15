@@ -24,3 +24,10 @@ The project deliverables are available below:
 
 - [Completed Cybersecurity Gap Assessment](./Gap%20Assesment.pdf)
 - [3-Year Cybersecurity Roadmap](./3%20Year%20CyberSecurity%20Roadmap.pdf)
+
+## Key Assumptions and Limitations
+
+- **Current state information:** The supplied current state problem description is assumed to be accurate and materially complete for the controls it addresses.
+- **Core platforms:** Microsoft 365, Azure, and Palo Alto are assumed to remain core platforms. Existing licensing and technical capabilities must be confirmed before purchasing new tools.
+- **Regulatory requirements:** Legal, privacy, contractual, and sector-specific regulatory obligations have not been fully assessed and may introduce additional requirements.
+- **Implementation constraints:** Staffing, budget, and supplier constraints may affect the roadmap’s sequencing. Any delay in implementing critical controls should be documented as a risk and approved by the accountable owner.
