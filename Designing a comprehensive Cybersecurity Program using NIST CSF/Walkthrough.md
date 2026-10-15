@@ -22,5 +22,4 @@ Following the gap assessment, I prepared a report for Oscorp’s stakeholders ou
 
 The project deliverables are available below:
 
-- [Completed Cybersecurity Gap Assessment](./Gap%20Assessment.pdf)
-- [Gap Assessment Report and Three-Year Roadmap](./Gap-Assessment-Report.pdf)
+- [Completed Cybersecurity Gap Assessment](./Gap%20Assesment.pdf)
