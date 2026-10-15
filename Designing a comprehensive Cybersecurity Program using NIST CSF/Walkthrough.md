@@ -16,3 +16,11 @@ Each assessment entry includes:
 - **Pass/Fail result:** An assessment of whether the control is met, based on the information available in the case study.
 - **Comments:** Supporting observations, identified gaps, and suggested improvements.
 
+## Post-Assessment: Findings and Three-Year Roadmap
+
+Following the gap assessment, I prepared a report for Oscorp’s stakeholders outlining the identified cybersecurity gaps and a proposed three-year roadmap for addressing them. The roadmap translates the assessment findings into a phased plan to strengthen the organisation’s cybersecurity posture.
+
+The project deliverables are available below:
+
+- [Completed Cybersecurity Gap Assessment](./Gap%20Assessment.pdf)
+- [Gap Assessment Report and Three-Year Roadmap](./Gap-Assessment-Report.pdf)
