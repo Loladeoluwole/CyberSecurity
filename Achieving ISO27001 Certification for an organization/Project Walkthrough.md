@@ -40,7 +40,7 @@ The document establishes the ISMS boundaries and provides a basis for risk asses
 
 ### Deliverable
 
-- [Clause 4 — ISMS Scope Document](./Clause_4_Scope.pdf)
+- [Clause 4 — ISMS Scope Document](./Documents/Clause_4_Scope.pdf)
 
 ### Further Work
 
