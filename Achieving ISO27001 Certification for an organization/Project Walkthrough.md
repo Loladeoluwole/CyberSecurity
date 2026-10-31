@@ -107,7 +107,7 @@ Together, these documents connect the assets, assessed risks, proposed controls,
 
 ### Deliverables
 
-- [Asset Register, Risk Assessment and Statement of Applicability](./Documents/Stark_Industries_Assets_Risk_Assessment_SoA_Completed.pdf)
+- [Asset Register, Risk Assessment and Statement of Applicability](./Documents/Stark_Industries_Assets_Risk_Assessment_SoA.pdf)
 - [Risk Assessment Methodology](./Documents/Clause6__Risk%20Assessment_6_1_2.pdf)
 - [Risk Treatment Process and Plan Framework](./Documents/Clause6__Risk%20Treatment%20Process%20and%20Plan_6_1_3.pdf)
 - [Information Security Objectives](./Documents/Clause6_ISMS_Objectives_6_2.pdf)
