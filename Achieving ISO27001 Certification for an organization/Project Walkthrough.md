@@ -12,13 +12,15 @@ The work is based on the supplied company scenario. It does not represent a cert
 
 ## Table of Contents
 
+## Table of Contents
+
 - [Clause 4 — Context of the Organisation](#clause-4--context-of-the-organisation)
-- Clause 5 — Leadership *(forthcoming)*
-- Clause 6 — Planning *(forthcoming)*
-- Clause 7 — Support *(forthcoming)*
-- Clause 8 — Operation *(forthcoming)*
-- Clause 9 — Performance Evaluation *(forthcoming)*
-- Clause 10 — Improvement *(forthcoming)*
+- [Clause 5 — Leadership](#clause-5--leadership)
+- [Clause 6 — Planning](#clause-6--planning)
+- [Clause 7 — Support](#clause-7--support)
+- [Clause 8 — Operation](#clause-8--operation)
+- [Clause 9 — Performance Evaluation](#clause-9--performance-evaluation)
+- [Clause 10 — Improvement](#clause-10--improvement)
 
 ## Clause 4 — Context of the Organisation
 
