@@ -117,7 +117,7 @@ Together, these documents connect the assets, assessed risks, proposed controls,
 
 - [Asset Management and Data Classification](./Policy_Asset%20Management%20%26%20Data%20Classification.pdf)
 - [Access Control](./Policy_Access%20Control%20Policy.pdf)
-- [Secure Development](./Policy_Abed_Documents_Secure%20Development%20Policy%20%28SDLC%29.pdf)
+- [Secure Development](./Policy_Lolly_Documents_Secure%20Development%20Policy%20%28SDLC%29.pdf)
 - [Cryptography](./Policy_Cryptography%20Policy.pdf)
 - [Acceptable Use](./Policy_Acceptable%20Use%20Policy.pdf)
 - [Business Continuity and Disaster Recovery](./Policy_Business%20Continuity%20%26%20Disaster%20Recovery%20Policy.pdf)
