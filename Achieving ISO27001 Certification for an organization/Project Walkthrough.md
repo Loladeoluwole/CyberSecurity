@@ -70,8 +70,8 @@ I also clarified the distinction between responsibility and accountability: the 
 
 ### Deliverables
 
-- [Information Security Policy](./Clause5__InfoSec_Policy.pdf)
-- [ISMS Roles and Responsibilities](./Clause5_Roles_Responsibilities.pdf)
+- [Information Security Policy](./Documents/Clause5__InfoSec_Policy.pdf)
+- [ISMS Roles and Responsibilities](./Documents/Clause5_Roles_Responsibilities.pdf)
 
 ### Further Work
 
@@ -107,25 +107,25 @@ Together, these documents connect the assets, assessed risks, proposed controls,
 
 ### Deliverables
 
-- [Asset Register, Risk Assessment and Statement of Applicability](./Stark_Industries_Assets_Risk_Assessment_SoA_Completed.xlsx)
-- [Risk Assessment Methodology](./Clause6__Risk%20Assessment_6_1_2.pdf)
-- [Risk Treatment Process and Plan Framework](./Clause6__Risk%20Treatment%20Process%20and%20Plan_6_1_3.pdf)
-- [Information Security Objectives](./Clause6_ISMS_Objectives_6_2.pdf)
+- [Asset Register, Risk Assessment and Statement of Applicability](./Documents/Stark_Industries_Assets_Risk_Assessment_SoA_Completed.xlsx)
+- [Risk Assessment Methodology](./Documents/Clause6__Risk%20Assessment_6_1_2.pdf)
+- [Risk Treatment Process and Plan Framework](./Documents/Clause6__Risk%20Treatment%20Process%20and%20Plan_6_1_3.pdf)
+- [Information Security Objectives](./Documents/Clause6_ISMS_Objectives_6_2.pdf)
 
 <details>
 <summary>Supporting policies</summary>
 
-- [Asset Management and Data Classification](./Policy_Asset%20Management%20%26%20Data%20Classification.pdf)
-- [Access Control](./Policy_Access%20Control%20Policy.pdf)
-- [Secure Development](./Policy_Lolly_Documents_Secure%20Development%20Policy%20%28SDLC%29.pdf)
-- [Cryptography](./Policy_Cryptography%20Policy.pdf)
-- [Acceptable Use](./Policy_Acceptable%20Use%20Policy.pdf)
-- [Business Continuity and Disaster Recovery](./Policy_Business%20Continuity%20%26%20Disaster%20Recovery%20Policy.pdf)
-- [Data Retention and Disposal](./Policy_Data%20Retention%20%26%20Disposal%20Policy.pdf)
-- [Incident Management](./Policy_Incident%20Management%20Policy.pdf)
-- [Monitoring and Logging](./Policy_Monitoring%20%26%20Logging%20Policy.pdf)
-- [Supplier Management](./Policy_Supplier_Management_Policy.pdf)
-- [Training and Awareness](./Policy_Training%20%26%20Awareness%20Policy.pdf)
+- [Asset Management and Data Classification](./Documents/Policy_Asset%20Management%20%26%20Data%20Classification.pdf)
+- [Access Control](./Documents/Policy_Access%20Control%20Policy.pdf)
+- [Secure Development](./Documents/Policy_Lolly_Documents_Secure%20Development%20Policy%20%28SDLC%29.pdf)
+- [Cryptography](./Documents/Policy_Cryptography%20Policy.pdf)
+- [Acceptable Use](./Documents/Policy_Acceptable%20Use%20Policy.pdf)
+- [Business Continuity and Disaster Recovery](./Documents/Policy_Business%20Continuity%20%26%20Disaster%20Recovery%20Policy.pdf)
+- [Data Retention and Disposal](./Documents/Policy_Data%20Retention%20%26%20Disposal%20Policy.pdf)
+- [Incident Management](./Documents/Policy_Incident%20Management%20Policy.pdf)
+- [Monitoring and Logging](./Documents/Policy_Monitoring%20%26%20Logging%20Policy.pdf)
+- [Supplier Management](./Documents/Policy_Supplier_Management_Policy.pdf)
+- [Training and Awareness](./Documents/Policy_Training%20%26%20Awareness%20Policy.pdf)
 
 </details>
 
@@ -160,7 +160,7 @@ For Clause 7.3, I connected this work to the existing ISMS objective of achievin
 
 ### Deliverable
 
-- [Competence Management and Awareness Records](./Clause7_Competence_Records_7_2.pdf)
+- [Competence Management and Awareness Records](./Documents/Clause7_Competence_Records_7_2.pdf)
 
 ### Further Work
 
@@ -192,7 +192,7 @@ At this stage, the controls are marked as Planned. Evidence references, owners, 
 
 ### Deliverable
 
-- [Control Evidence Tracker](./Stark_Industries_Control_Evidence_Tracker.xlsx)
+- [Control Evidence Tracker](./Documents/Stark_Industries_Control_Evidence_Tracker.xlsx)
 
 ### Further Work
 
@@ -227,10 +227,10 @@ These documents establish the evaluation process. KPI results, audit findings, a
 
 ### Deliverables
 
-- [Monitoring and Evaluation Procedure](./Clause9_monitoring_analyis_kpis_9_1.pdf)
-- [Internal Audit Programme](./Clause9_internal_audit_plan_9_2.pdf)
-- [Management Review Procedure](./Clause9_managment_review_plan_9_3.pdf)
-- [Management Review Agenda and Minutes](./Stark_ISMS_Management_Meeting_Agenda_Minutes.xlsx)
+- [Monitoring and Evaluation Procedure](./Documents/Clause9_monitoring_analyis_kpis_9_1.pdf)
+- [Internal Audit Programme](./Documents/Clause9_internal_audit_plan_9_2.pdf)
+- [Management Review Procedure](./Documents/Clause9_managment_review_plan_9_3.pdf)
+- [Management Review Agenda and Minutes](./Documents/Stark_ISMS_Management_Meeting_Agenda_Minutes.xlsx)
 
 ### Further Work
 
@@ -263,7 +263,7 @@ The current deliverable is an unpopulated template. It establishes the tracking 
 
 ### Deliverable
 
-- [Nonconformity Log](./Stark_ISMS_NonConformity_Log.xlsx)
+- [Nonconformity Log](./Documents/Stark_ISMS_NonConformity_Log.xlsx)
 
 ### Further Work
 
