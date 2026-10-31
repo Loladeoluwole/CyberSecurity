@@ -107,7 +107,7 @@ Together, these documents connect the assets, assessed risks, proposed controls,
 
 ### Deliverables
 
-- [Asset Register, Risk Assessment and Statement of Applicability](./Documents/Stark_Industries_Assets_Risk_Assessment_SoA_Completed.xlsx)
+- [Asset Register, Risk Assessment and Statement of Applicability](./Documents/Stark_Industries_Assets_Risk_Assessment_SoA_Completed.pdf)
 - [Risk Assessment Methodology](./Documents/Clause6__Risk%20Assessment_6_1_2.pdf)
 - [Risk Treatment Process and Plan Framework](./Documents/Clause6__Risk%20Treatment%20Process%20and%20Plan_6_1_3.pdf)
 - [Information Security Objectives](./Documents/Clause6_ISMS_Objectives_6_2.pdf)
@@ -192,7 +192,7 @@ At this stage, the controls are marked as Planned. Evidence references, owners, 
 
 ### Deliverable
 
-- [Control Evidence Tracker](./Documents/Stark_Industries_Control_Evidence_Tracker.xlsx)
+- [Control Evidence Tracker](./Documents/Stark_Industries_Control_Evidence_Tracker.pdf)
 
 ### Further Work
 
@@ -230,7 +230,7 @@ These documents establish the evaluation process. KPI results, audit findings, a
 - [Monitoring and Evaluation Procedure](./Documents/Clause9_monitoring_analyis_kpis_9_1.pdf)
 - [Internal Audit Programme](./Documents/Clause9_internal_audit_plan_9_2.pdf)
 - [Management Review Procedure](./Documents/Clause9_managment_review_plan_9_3.pdf)
-- [Management Review Agenda and Minutes](./Documents/Stark_ISMS_Management_Meeting_Agenda_Minutes.xlsx)
+- [Management Review Agenda and Minutes](./Documents/Stark_ISMS_Management_Meeting_Agenda_Minutes.pdf)
 
 ### Further Work
 
@@ -263,7 +263,7 @@ The current deliverable is an unpopulated template. It establishes the tracking 
 
 ### Deliverable
 
-- [Nonconformity Log](./Documents/Stark_ISMS_NonConformity_Log.xlsx)
+- [Nonconformity Log](./Documents/Stark_ISMS_NonConformity_Log.pdf)
 
 ### Further Work
 
