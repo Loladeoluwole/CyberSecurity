@@ -202,4 +202,73 @@ At this stage, the controls are marked as Planned. Evidence references, owners, 
 
 ### Lesson Learned
 
-Evidence needs to be planned alongside implementation. Defining what I expect to see for each control makes it easier to identify gaps and distinguish a documented policy from a control that is operating.+
+Evidence needs to be planned alongside implementation. Defining what I expect to see for each control makes it easier to identify gaps and distinguish a documented policy from a control that is operating.
+
+
+## Clause 9 — Performance Evaluation
+
+### Objective
+
+Define how ISMS performance would be measured, independently assessed, and reviewed by management.
+
+### What I Did
+
+With the evidence tracker in place, I focused on how to judge whether the ISMS was achieving its objectives.
+
+For Clause 9.1, I defined monitoring responsibilities, frequencies, and evaluation criteria for measures including training completion, backup testing, access reviews, and vulnerability remediation. This provides a basis for identifying trends and prioritising action.
+
+For Clause 9.2, I developed an internal audit programme covering the full ISMS scope, with defined criteria, methods, reporting timelines, and corrective action follow-up. I prepared the programme for the exercise; audits would require competent, impartial auditors independent of the activities being assessed.
+
+For Clause 9.3, I created a management review procedure, agenda, and minutes template to bring together performance results, audit findings, risk updates, and resource needs. The template records decisions, action owners, and deadlines to support follow-through.
+
+These documents establish the evaluation process. KPI results, audit findings, and management decisions remain to be recorded.
+
+### Deliverables
+
+- [Monitoring and Evaluation Procedure](./Clause9_monitoring_analyis_kpis_9_1.pdf)
+- [Internal Audit Programme](./Clause9_internal_audit_plan_9_2.pdf)
+- [Management Review Procedure](./Clause9_managment_review_plan_9_3.pdf)
+- [Management Review Agenda and Minutes](./Stark_ISMS_Management_Meeting_Agenda_Minutes.xlsx)
+
+### Further Work
+
+- Align monitoring criteria with the Clause 6 objectives and collect performance results.
+- Schedule independent audits and track findings through corrective action.
+- Conduct management reviews and follow up on assigned decisions and actions.
+
+### Lesson Learned
+
+I approached performance evaluation as a decision-making process: measurements identify concerns, audits examine the evidence, and management reviews determine the response.
+
+
+## Clause 10 — Improvement
+
+### Objective
+
+Establish a way to record nonconformities, assign responsibility, and follow corrective actions through to verified resolution.
+
+### What I Did
+
+After defining how performance would be evaluated in Clause 9, I focused on what should happen when a review identifies a gap.
+
+I created a Nonconformity Log with fields for the control name, owner, finding description, finding date, resolution date, status, and comments. This provides a central record for assigning accountability and tracking outstanding issues.
+
+For Clause 10.2, the log provides the starting point for managing nonconformities and corrective actions. I would use it to capture findings from audits, control reviews, or incidents, then document the immediate correction, investigate the root cause, and track action to prevent recurrence. Closure would depend on evidence that the action was effective.
+
+For Clause 10.1, reviewing recurring findings and overdue actions would help identify improvements to policies, processes, training, or controls. These insights would feed back into management review and ISMS planning.
+
+The current deliverable is an unpopulated template. It establishes the tracking structure; completed corrective actions and effectiveness checks remain to be demonstrated.
+
+### Deliverable
+
+- [Nonconformity Log](./Stark_ISMS_NonConformity_Log.xlsx)
+
+### Further Work
+
+- Add fields for the requirement not met, supporting evidence, root cause, correction, corrective action, and target completion date.
+- Record effectiveness checks, closure evidence, and approval before closing findings.
+- Review recurring issues and overdue actions during management reviews.
+
+### Lesson Learned
+
+Resolving an individual issue is only part of the work. I also need to understand why it happened and verify that the corrective action addresses the cause.
