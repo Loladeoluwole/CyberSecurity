@@ -137,3 +137,69 @@ Together, these documents connect the assets, assessed risks, proposed controls,
 ### Lesson Learned
 
 A policy establishes expectations, but it does not demonstrate that a control is effective. Linking assets, risks, controls, owners, and validation checks made the treatment decisions easier to explain and review.
+
+
+
+## Clause 7 — Support
+
+### Objective
+
+Identify the competence needed to operate the ISMS and plan how staff will develop and maintain the knowledge and skills required for their roles.
+
+### What I Did
+
+With responsibilities already defined, I considered what each person would need to perform them effectively. I created a competence register for the six project roles, recording required competencies, evidence of competence, training, and review dates.
+
+For Clause 7.2, I matched competencies to specific responsibilities. The developer’s entry covers secure coding and threat modelling, while the Security Analyst’s covers security monitoring and incident response. For the GRC Analyst, I included risk assessment and compliance reporting, supported by work such as risk logs, the Statement of Applicability, and audits.
+
+I also documented how competence would be maintained: annual reviews, reassessment following significant changes, and targeted training or reassignment where gaps are identified. The entries are part of the hypothetical scenario; supporting evidence and review dates still need to be completed.
+
+For Clause 7.3, I connected this work to the existing ISMS objective of achieving 100% staff completion of security awareness training. The objective provides a measurable target, while the competence register identifies role-specific training needs. Attendance would be tracked alongside checks that staff understand their security responsibilities.
+
+### Deliverable
+
+- [Competence Management and Awareness Records](./Clause7_Competence_Records_7_2.pdf)
+
+### Further Work
+
+- Complete review dates and attach evidence such as qualifications, training records, and practical assessments.
+- Assess whether training improves performance, using exercises relevant to each role.
+- Check staff awareness of the Information Security Policy, their contribution to the ISMS, and the consequences of nonconformity.
+- Document resource needs, communication arrangements, and document controls for the remaining areas of Clause 7.
+
+### Lesson Learned
+
+Training completion is only one part of competence. I also need evidence that a person can apply the knowledge to their responsibilities, whether that means investigating an incident, reviewing code, or assessing risk.
+
+
+## Clause 8 — Operation
+
+### Objective
+
+Create a clear way to track control implementation and the evidence needed to demonstrate that risk treatment actions are being carried out.
+
+### What I Did
+
+After selecting controls in Clause 6, I needed a way to follow their implementation. I created a Control Evidence Tracker covering the 63 Annex A controls currently marked as applicable in the Statement of Applicability.
+
+For each control, I included fields for implementation status, evidence type, evidence location, responsible owner, verification date, and comments. This creates a consistent record of what needs to be demonstrated, who will provide it, and where it can be reviewed.
+
+The tracker supports operational planning and control under Clause 8.1 by providing a structure for following up on implementation. For example, access control evidence could include approved access requests and review records, while backup evidence could include restoration test results. These records would help connect the policy requirements to activities performed in practice.
+
+At this stage, the controls are marked as Planned. Evidence references, owners, and verification dates remain to be populated. I kept that distinction visible so the tracker reflects the actual stage of the project.
+
+### Deliverable
+
+- [Control Evidence Tracker](./Stark_Industries_Control_Evidence_Tracker.xlsx)
+
+### Further Work
+
+- Assign control owners and define the evidence and verification criteria for each control.
+- Populate evidence locations and verification dates as implementation progresses.
+- Link evidence to the risk treatment actions and record implementation results for Clause 8.3.
+- Reassess risks at planned intervals and following significant changes under Clause 8.2.
+- Update the tracker when the flagged SoA applicability decisions are resolved.
+
+### Lesson Learned
+
+Evidence needs to be planned alongside implementation. Defining what I expect to see for each control makes it easier to identify gaps and distinguish a documented policy from a control that is operating.+
