@@ -6,11 +6,10 @@ For each stage, I explain the objective, the work I completed, and the reasoning
 
 ## Project Context
 
-This is a guided portfolio project focused on ISMS development and certification preparation. References to Clauses 4–10 connect the project activities to the standard without reproducing its requirement text.
+This is a simulated portfolio project focused on ISMS development and ISO27001 certification preparation. References to Clauses 4–10 of the official ISO document were made to complete this project.
 
-The work is based on the supplied company scenario. It does not represent a certification audit or an organisation that has achieved certification.
+Please note that the work is based on the supplied company scenario. It does not represent a certification audit or an organisation that has achieved certification.
 
-## Table of Contents
 
 ## Table of Contents
 
